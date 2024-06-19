@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/fraze/Documents/GitHub/PPR301/PPR301_A1/Content/Levels/TestLevel.umap",
+				"C:/Users/fraze/Documents/GitHub/PPR301/PPR301_A1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/panth/OneDrive/Documents/GitHub/PPR301/PPR301_A1/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
