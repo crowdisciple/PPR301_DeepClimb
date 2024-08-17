@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Documents/GitHub/PPR301_DeepClimb/PPR301_A1/Content/UI/Pause_MenuWB.uasset",
+				"C:/Users/User/Documents/GitHub/PPR301_DeepClimb/PPR301_A1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/User/Documents/GitHub/PPR301_DeepClimb/PPR301_A1/Content/UI/JumpChargeWB.uasset",
 				"C:/Users/fraze/Documents/GitHub/PPR301/PPR301_A1/Content/Levels/TestLevel.umap",
 				"C:/Users/fraze/Documents/GitHub/PPR301/PPR301_A1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/fraze/Documents/GitHub/PPR301/PPR301_A1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
